@@ -17,6 +17,9 @@ A VPN will give you better protection and more chances to brute force the accoun
 ![Screenshot](fbkiller06.PNG)
 
 ### How to install
+Downloat it first.
+`git clone https://github.com/ethicalhackingplayground/fbkiller.git`
+
 Simply run,
 `python3 setup.py`
 
