@@ -14,7 +14,6 @@ A VPN will give you better protection and more chances to brute force the accoun
 ![Screenshot](fbkiller02.PNG)
 ![Screenshot](fbkiller03.PNG)
 ![Screenshot](fbkiller04.PNG)
-![Screenshot](fbkiller05.PNG)
 
 
 ### How to install
