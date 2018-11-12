@@ -10,4 +10,18 @@ what it will do is attempt to login to the facebook account with each word in th
 dictionary. It uses ***TorRequests*** to bypass facebooks login security.
 A VPN will give you better protection and more chances to brute force the account.
 
-!(Screenshot)
+![Screenshot](fbkiller01.PNG)
+![Screenshot](fbkiller02.PNG)
+![Screenshot](fbkiller03.PNG)
+![Screenshot](fbkiller04.PNG)
+![Screenshot](fbkiller05.PNG)
+
+
+### How to install
+Simply run,
+`python3 setup.py`
+
+### Usage:
+`python3 fbkiller -h`
+
+happy hacking.
