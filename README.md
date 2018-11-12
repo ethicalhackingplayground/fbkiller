@@ -29,4 +29,8 @@ Simply run,
 ### Usage:
 `python3 fbkiller -h`
 
+### Suggestions
+I would recommend this wordlist generator.
+https://github.com/berzerk0/BEWGor
+
 happy hacking.
