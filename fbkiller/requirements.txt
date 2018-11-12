@@ -1,0 +1,8 @@
+stem
+colorama
+ansi
+validate_email
+requests
+argparse
+torrequest
+bs4
