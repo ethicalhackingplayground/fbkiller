@@ -27,7 +27,7 @@ Simply run,
 `python3 setup.py`
 
 ### Usage:
-`python3 fbkiller -h`
+`python3 fbkiller.py -h`
 
 ### Suggestions
 I would recommend this wordlist generator.
