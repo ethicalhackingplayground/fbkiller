@@ -21,7 +21,7 @@ Download it first.
 `git clone https://github.com/ethicalhackingplayground/fbkiller.git`
 
 Go to the directory.
-`cd fbkiller`
+`cd fbkiller; cd fbkiller`
 
 Simply run,
 `python3 setup.py`
